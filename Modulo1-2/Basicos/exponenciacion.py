@@ -1,0 +1,5 @@
+#la exponenciacion se representa con dos **, ejejmplo 2**4 #
+print(2 ** 3)
+print(2 ** 3.)
+print(2. ** 3)
+print(2. ** 3.)
